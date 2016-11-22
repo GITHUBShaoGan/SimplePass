@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SimplePass</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--密码初始化界面-->
+    <string name="hint_pwd_init_pwd">Password</string>
+    <string name="hint_pwd_init_confirm">Confirm</string>
+    <string name="hint_pwd_init_reservation">Reservation</string>
+    <string name="btn_pwd_init_ok">OK</string>
+
+    <string name="tips_pwd_init_reservation">Reservation is set to find the master password when you forget your master password！If both of them are forgot，you will loss all passwords！</string>
+
+    <string name="success_pwd_init">Password set successfully!</string>
+
+    <string name="error_pwd_init_illegallen">Illegal password length!(4-128)</string>
+    <string name="error_pwd_init_illegallen_reser">Illegal reservation length!(1-20)</string>
+    <string name="error_pwd_init_null">All input cannot be empty!</string>
+    <string name="error_pwd_init_notequal">Two input inconsistencies!</string>
+    <string name="error_pwd_init_exists">Password already exists!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
